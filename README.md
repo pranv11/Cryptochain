@@ -1,2 +1,2 @@
 #Cryptochain project
-member: Pranav Pandey, Bhagyesh Rathi
+- member: Pranav Pandey, Bhagyesh Rathi
